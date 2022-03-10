@@ -1,0 +1,127 @@
+/* pc 1440*900 */
+@media all and (min-device-width: 1367px) and (max-device-width: 1440px){
+.site {
+width: 1440px;
+height: 1800px;
+}
+}
+/* pc 1920*1080 */
+@media all and (min-device-width: 1441px) and (max-device-width: 1920px){
+.site {
+ width: 1920px;
+ height: 2160px;
+}
+.frame1 {
+  transform: scale(1.4);
+  top: 9vh;
+  left: 21vh;
+}
+.drag {
+  top: -5175px;
+  left: 245px;
+}
+.zaafro {
+  width: 40vh;
+  height: 7vh;
+  top: -6175px;
+  left: 492px;
+}
+.next {
+  width: 25.5vh;
+  height: 7vh;
+  top: -5575px;
+  left: 1105px;
+}
+h1, p {
+  transform: scale(0.8);
+}
+h2 {
+  transform: scale(0.9);
+}
+.frame2 {
+  transform: scale(1.4);
+  top: 1080px;;
+  left: 21vh;
+}
+.affest {
+  top: -2295px;
+  left: 50px;
+}
+.head {
+  margin-top: 180px;
+}
+.eyes1 {
+  top: -1380px;
+}
+.nose1 {
+  top: -1620px;
+}
+.mouth1 {
+  top: -1710px;
+}
+.restart {
+  width: 25vh;
+}
+.futter {
+  transform: scale(0.95);
+  width: 100vw;
+  top: -1875px;
+}
+.logo {
+ left: 30px;
+ top: 10px;
+}
+.afv {
+  left: 80px;
+}
+.name {
+  top: 35px;
+  left: 1110px;
+}
+.handl, .handr, .handc {
+  transform: scale(0.9);
+}
+
+.adv {
+  top: -6250px;
+  left: 880px;
+  width: 14vw;
+  height: 12vh;
+}
+.adv p {
+  padding-top: 16px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: -10px;
+  font-size: 27px;
+}
+/* здесь надо дописать руки */
+}
+/* pc 1366*768 */
+@media all  and (min-device-width: 1025px) and (max-device-width: 1366px){
+.site {
+  width: 1366px;
+  height: 1536px;
+}
+}
+/* pc 1024*768 */
+@media all  and (max-device-width: 1024px){
+.site {width: 1024px; height: 3072px;}
+@import 'animation_pc_1024_768.css';
+}
+/* tablet 768*1024 */
+@media all  and (max-device-width: 768px){
+.site {width: 768px; height: 4096px;}
+@import 'animation_tablet.css';
+}
+/* iphone 414*896*/
+@media all  and (max-device-width: 414px){
+.site {width: 414px; height: 3584px;}
+@import 'animation_iphone.css';
+}
+/* andorid 360*640*/
+@media all and (max-device-width: 360px){
+.site {width: 360px; height: 2560px;}
+@import 'animation_android.css';
+}
