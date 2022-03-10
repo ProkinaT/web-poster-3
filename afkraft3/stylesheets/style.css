@@ -1,0 +1,8 @@
+@import 'reset.css';
+@import 'content.css';
+@import 'layout.css';
+@import 'responsive.css';
+@font-face {
+   font-family: "Zyablik";
+   src: url(../fonts/Zyablik-Regular.ttf) format("truetype");
+  }
