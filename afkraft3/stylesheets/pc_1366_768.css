@@ -1,0 +1,189 @@
+@media all and (min-device-width: 1025px) and (max-device-width: 1366px){
+  .frame1 {
+    width: 1366px;
+    height: 768px
+  }
+  .hat {
+    top: -107vh;
+    left: 60vw;
+  }
+  .glines {
+    top: -160vh;
+    left: 74.5vw;
+  }
+  .veer {
+    top: 40.5vh;
+    left: 64vw;
+  }
+  .cube {
+    top: 63vh;
+    left: 77.5vw;
+  }
+  .oval {
+    top: 48vh;
+    left: 91.5vw;
+  }
+  .whtriangle {
+    top: -204vh;
+    left: 65.8vw;
+  }
+  .half {
+    top: -230vh;
+    left: -1.4vw;
+  }
+  .boldpoloski {
+    top: -325.5vh;
+    left: -2.8vw;
+  }
+  .pavlin {
+    top: -348vh;
+    left: 8vw;
+  }
+  .tap {
+    top: -28vh;
+      left: 68.1vw;
+  }
+  .mask {
+    top: -2vw;
+  }
+  .rain {
+    top: -374vh;
+  }
+  .zigzag {
+    top: -348vh;
+    left: 42vw;
+  }
+  .scratchesgor {
+    top: -451vh;
+    left: 13vw;
+  }
+  .pero {
+    top: -442vh;
+    left: 27vw;
+  }
+  .zigzagb
+  {
+    top: -497vh;
+    left: 6.7vw;
+  }
+  .voidtriangle {
+    top: -560.5vh;
+    left: 14.5vw;
+  }
+  .scratch {
+    top: -546vh;
+    left: 20vw;
+  }
+  .plane {
+    top: -565.5vh;
+    left: -2.5vw;
+  }
+  .drag {
+    top: -680vh;
+    left: 16.5vw;
+  }
+  .circlegreen {
+    top: -677vh;
+    left: 24vw;
+  }
+  .eyes {
+    top: -694vh;
+    left: 37vw;
+  }
+  .nose {
+    top: -725.5vh;
+    left: 44.5vw;
+  }
+  .mouth {
+    top: -736vh;
+    left: 44.5vw;
+  }
+  .zaafro {
+    transform: scale(0.8);
+    top: -810vh;
+    width: 38vw;
+    left: 32.5vw;
+  }
+  .next {
+    top: -740vh;
+    transform: scale(0.8);
+    left: 77vw;
+    height: 45vh;
+    width: 22vw;
+  }
+  .frame2 {
+    top: 768px;
+    width: 1366px;
+    height: 768px
+  }
+  .head {
+    margin-top: 11vh;
+    margin-left: 27.5vw;
+  }
+  .patterns {
+    margin-top: -710px;
+  }
+  .eyes1 {
+    top: -73vh;
+    left: 37.5vw;
+  }
+  .nose1 {
+    top: -104.5vh;
+    left: 45vw;
+  }
+  .mouth1 {
+    top: -115vh;
+    left: 45vw;
+  }
+  .affest {
+    top: -189vh;
+    left: 4vw;
+    width: 302px;
+  }
+  .restart {
+    top: -145vh;
+    left: 77.1vw;
+    width: 22.5vw;
+    transform: scale(0.8);
+  }
+  .futter {
+   top: -136vh;
+   width: 122vw;
+  }
+  .logo {
+    top: 0.3vh;
+  }
+  .afv {
+    top: 4vh;
+  }
+  .name {
+    top: 4vh;
+    left: 74.5vw;
+  }
+  .handl, .handc, .handr {
+    transform: scale(0.9);
+  }
+  .handl {
+    top: -232vh;
+  }
+  .handl1 {
+    left: -3vw;
+  }
+  .handc {
+    left: 25.2vw;
+  }
+  .handc1 {
+    top: -310vh;
+
+  }
+  .handr {
+    background: url("../images/handr1368.png");
+    width: 906px;
+    height: 559px;
+    top: -388vh;
+    transform: scale(1);
+  }
+  .handr1 {
+    left: 42vw;
+  }
+}
