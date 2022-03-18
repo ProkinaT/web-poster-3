@@ -1,0 +1,235 @@
+@media all and (min-device-width: 361px) and (max-device-width: 414px){
+  .frame1 {
+    top: 0;
+    left: 0;
+    width: 414px;
+    height: 896px;
+  }
+  .mask,  .tap, .drag, .hat, .glines, .veer, .cube, .oval {
+    transform: scale(0.6);
+  }
+  .whtriangle, .half, .boldpoloski, .pavlin, .rain, .zigzag, .scratchesgor, .pero, .zigzagb, .voidtriangle, .scratch, .plane, .circlegreen, .eyes, .nose, .mouth, .zaafro, .next {
+    transform: scale(0.6);
+  }
+  .mask {
+    margin-top: 131px;
+    margin-left: -110px;
+  }
+  .tap {
+    transform: scale(0.8);
+    top: -159px;
+    left: 129px;
+  }
+  .hat {
+    top: -805px;
+    left: 37vw;
+  }
+  .glines {
+    top: -1027px;
+    left: 52vw;
+  }
+  .veer {
+    left: 30.5vw;
+    top: 500px;
+  }
+  .cube {
+    top: 560px;
+    left: 44.5vw;
+  }
+  .oval {
+    display: none;
+  }
+  .whtriangle {
+    top: -1555px;
+    left: 71.8vw;
+    transform: scale(0.78);
+  }
+  .half {
+    top: -1621px;
+    left: -25.4vw;
+  }
+  .boldpoloski {
+    top: -2220px;
+    left: -24.5vw;
+  }
+  .pavlin {
+   display: none;
+  }
+  .rain {
+    display: none;
+  }
+  .zigzag {
+    top: -2723px;
+    left: 14vw;
+  }
+  .scratchesgor {
+    display: none;
+  }
+  .pero {
+    top: -3025px;
+    left: 0vw;
+  }
+  .zigzagb{
+    top: -3373px;
+    left: -42.3vw;
+  }
+  .voidtriangle {
+    top: -3778px;
+    left: -19.5vw;
+  }
+  .scratch {
+    top: -3872px;
+    left: 9.5vw;
+  }
+  .plane {
+    top: -3366px;
+    left: -18vw;
+  }
+  .drag {
+    transform: scale(0.63);
+    top: -4099px;
+    left: -45px;
+  }
+  .circlegreen {
+    top: -4039px;
+    left: -6px;
+  }
+  .eyes {
+    top: -4371px;
+    left: 28px;
+  }
+  .nose {
+    top: -4622px;
+    left: 129px;
+  }
+  .mouth {
+    top: -4777px;
+    left: 123px;
+  }
+  h1 {
+    font-size: 65px;
+  }
+  .zaafro {
+    top: -5380px;
+    width: 597px;
+    left: -91px;
+    height: 93px;
+  }
+  .next {
+    padding-top: 10px;
+    top: -4706px;
+    left: 167px;
+    height: 12vh;
+    width: 279px;
+  }
+  .adv {
+    top: -5527px;
+    height: 91px;
+    width: 136px;
+    left: 243px;
+  }
+  .adv p{
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .frame2 {
+    top: 896px;
+    left: 0;
+    width: 828px;
+    height: 1082px;
+  }
+  .head, .patterns, .eyes1, .nose1, .mouth1, .affest, .restart, .futter {
+    transform: scale(0.6)
+  }
+  .head {
+    margin-top: 142px;
+    margin-left: -122px;
+  }
+  .patterns {
+    margin-top: -722px;
+    margin-left: -149px;
+    height: 750px;
+    width: 750px;
+  }
+  .eyes1 {
+    top: -460px;
+    left: 30px;
+  }
+  .nose1 {
+    top: -718px;
+    left: 132px;
+  }
+  .mouth1 {
+    top: -873px;
+    left: 131px;
+  }
+  .affest {
+    top: -1528px;
+    left: -24px;
+    width: 385px;
+    transform: scale(0.75);
+  }
+  h2 {
+    font-size: 53px;
+  }
+  .restart {
+    background-image: url("../images/button.png");
+    width: 138px;
+    height: 85px;
+    top: -919px;
+    left: 277px;
+  }
+  .restart h1 {
+   opacity: 0;
+  }
+  .futter {
+    top: -915px;
+    width: 168vw;
+    left: -138px;
+  }
+  .logo {
+    top: 1.3vh;
+    left: 9.8vw;
+  }
+  p {
+    font-size: 25px;
+  }
+  .afv {
+    top: 6vh;
+    left: 106.7vw;
+    width: 270px;
+  }
+  .name {
+    display: none;
+  }
+  .handl {
+    background: url("../images/handl_i.png");
+    top: -1446px;
+    width: 474px;
+    height: 339px;
+  }
+  .handl1 {
+    left: -253px;
+  }
+  .handc {
+    background: url("../images/handc_i.png");
+    left: 9px;
+    width: 331px;
+    height: 654px;
+  }
+  .handc1 {
+    top: -2169px;
+
+  }
+  .handr {
+    background: url("../images/handr_i.png");
+    width: 347px;
+    height: 440px;
+    top: -2612px;
+  }
+  .handr1 {
+    left: 215px;
+  }
