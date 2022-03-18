@@ -1,127 +1,1372 @@
+/* pc 1920*1080 */
+@media all and (min-device-width: 1441px){
+  .site {width: 1920px; height: 2160px;}
+  .frame1 {
+    transform: scale(1.4);
+    top: 8vh;
+    left: 21vh;
+    height: 830px;
+  }
+  .mask {
+    margin-top: 110px;
+  }
+  .tap {
+    top: -180px;
+    left: 923px;
+  }
+  .hat {
+    top: -792px;
+    left: 44vw;
+
+  }
+  .glines {
+    top: -1201px;
+    left: 53.5vw;
+  }
+  .veer {
+    top: 344px;
+    left: 47vw;
+  }
+  .cube {
+    top: 489px;
+    left: 57vw;
+  }
+  .oval {
+    top: 405px;
+    left: 66vw;
+  }
+ .whtriangle {
+    top: -1539px;
+    left: 48vw;
+  }
+ .half {
+    top: -1741px;
+    left: 0.5vw;
+  }
+ .boldpoloski {
+   top: -2469px;
+   left: -0.5vw;
+ }
+ .pavlin {
+   top: -2648px;
+   left: 7vw;
+ }
+ .rain {
+   top: -2839px;
+   left: -1.8vw;
+ }
+ .zigzag {
+   top: -2651px;
+   left: 31vw;
+ }
+ .scratchesgor {
+   top: -3437px;
+   left: 11vw;
+ }
+ .pero {
+   top: -3378px;
+   left: 20.5vw;
+ }
+ .zigzagb {
+   top: -3790px;
+   left: 6.1vw;
+ }
+ .voidtriangle {
+   top: -4278px;
+   left: 11.8vw;
+ }
+ .scratch {
+   top: -4181px;
+   left: 15vw;
+ }
+ .plane {
+   top: -4321px;
+   left: -1vw;
+ }
+ .circlegreen {
+   top: -5177px;
+   left: 18.5vw;
+ }
+ .eyes {
+   top: -5303px;
+   left: 529px;
+ }
+ .nose {
+   top: -5544px;
+   left: 640px;
+ }
+ .mouth {
+   top: -5628px;
+   left: 636px;
+ }
+ .zaafro {
+   top: -6187px;
+ }
+ .next {
+   top: -5597px;
+ }
+ .adv {
+   top: -6268px;
+ }
+ .drag {
+   top: -5175px;
+   left: 245px;
+ }
+ .zaafro {
+   width: 434px;
+   height: 7vh;
+   top: -6185px;
+   left: 492px;
+ }
+ .next {
+   width: 265px;
+   height: 119px;
+   top: -5585px;
+   left: 1095px;
+ }
+ h1, p {
+   transform: scale(0.8);
+ }
+ h2 {
+   transform: scale(0.9);
+ }
+ .frame2 {
+   transform: scale(1.4);
+   height: 830px;
+   top: 1250px;;
+   left: 21vh;
+ }
+ .affest {
+  top: -1470px;
+  left: 3vw;
+ }
+ .head {
+   margin-top: 50px;
+   margin-left: 410px;
+ }
+ .patterns {
+   margin-top: -690px;
+   margin-left: 345px;;
+ }
+ .eyes1 {
+   top: -578px;
+   left: 552px;
+ }
+ .nose1 {
+   top: -811px;
+   left: 661px;
+ }
+ .mouth1 {
+   top: -892px;
+   left: 660px;
+ }
+ .restart {
+   width: 24vh;
+   top: -1082px;
+   height: 75px;
+   left: 57.3vw;
+ }
+ .futter p {
+   font-size: 27px
+ }
+ .futter {
+   width: 77.5vw;
+  top: -1033px;
+  height: 4vw;
+  left: 43px;
+ }
+ .logo {
+  left: 30px;
+  top: 10px;
+ }
+ .afv {
+   left: 80px;
+ }
+ .name {
+   top: 35px;
+   left: 55.8vw;
+ }
+ .adv {
+   top: -6250px;
+   left: 880px;
+   width: 14vw;
+   height: 12vh;
+ }
+ .adv p {
+   padding-top: 16px;
+   padding-bottom: 0px;
+   padding-left: 0px;
+   padding-right: 0px;
+   margin-left: -10px;
+   font-size: 27px;
+ }
+ .handl {
+   background: url("../images/handl1920.png");
+   transform: scale(0.7);
+   left: -4000px;
+   top: -1829px;
+   width: 1330px;
+   height: 746px;
+ }
+ .handl1 {
+   left: -253px;
+ }
+ .handc {
+   transform: scale(0.89);
+   top: -4000px;
+   left: 428px;
+ }
+ .handc1 {
+   top: -2652px;
+ }
+ .handr {
+   transform: scale(0.9);
+   top: -3227px;
+   left: 4000px;
+ }
+ .handr1 {
+   left: 712px;
+ }
+}
 /* pc 1440*900 */
 @media all and (min-device-width: 1367px) and (max-device-width: 1440px){
-.site {
-width: 1440px;
-height: 1800px;
-}
-}
-/* pc 1920*1080 */
-@media all and (min-device-width: 1441px) and (max-device-width: 1920px){
-.site {
- width: 1920px;
- height: 2160px;
-}
-.frame1 {
-  transform: scale(1.4);
-  top: 9vh;
-  left: 21vh;
-}
-.drag {
-  top: -5175px;
-  left: 245px;
-}
-.zaafro {
-  width: 40vh;
-  height: 7vh;
-  top: -6175px;
-  left: 492px;
-}
-.next {
-  width: 25.5vh;
-  height: 7vh;
-  top: -5575px;
-  left: 1105px;
-}
-h1, p {
-  transform: scale(0.8);
-}
-h2 {
-  transform: scale(0.9);
-}
-.frame2 {
-  transform: scale(1.4);
-  top: 1080px;;
-  left: 21vh;
-}
-.affest {
-  top: -2295px;
-  left: 50px;
-}
-.head {
-  margin-top: 180px;
-}
-.eyes1 {
-  top: -1380px;
-}
-.nose1 {
-  top: -1620px;
-}
-.mouth1 {
-  top: -1710px;
-}
-.restart {
-  width: 25vh;
-}
-.futter {
-  transform: scale(0.95);
-  width: 100vw;
-  top: -1875px;
-}
-.logo {
- left: 30px;
- top: 10px;
-}
-.afv {
-  left: 80px;
-}
-.name {
-  top: 35px;
-  left: 1110px;
-}
-.handl, .handr, .handc {
-  transform: scale(0.9);
-}
-
-.adv {
-  top: -6250px;
-  left: 880px;
-  width: 14vw;
-  height: 12vh;
-}
-.adv p {
-  padding-top: 16px;
-  padding-bottom: 0px;
-  padding-left: 0px;
-  padding-right: 0px;
-  margin-left: -10px;
-  font-size: 27px;
-}
-/* здесь надо дописать руки */
+ .site {width: 1440px; height: 1800px;}
 }
 /* pc 1366*768 */
 @media all  and (min-device-width: 1025px) and (max-device-width: 1366px){
-.site {
-  width: 1366px;
-  height: 1536px;
-}
+  .site { width: 1366px; height: 1536px;}
+  .frame1 {
+    width: 1366px;
+    height: 768px
+  }
+  .mask {
+    top: -15px;
+  }
+  .hat {
+    top: -811px;
+    left: 60vw;
+  }
+  .glines {
+    top: -1214px;
+    left: 74.5vw;
+  }
+  .veer {
+    top: 314px;
+    left: 64vw;
+  }
+  .cube {
+    top: 454px;
+    left: 78.4vw;
+  }
+  .oval {
+    top: 370px;
+    left: 91.5vw;
+  }
+  .whtriangle {
+    top: -1553px;
+    left: 65.8vw;
+  }
+  .half {
+    top: -1754px;
+    left: -1.4vw;
+  }
+  .boldpoloski {
+    top: -2487px;
+    left: -2.8vw;
+  }
+  .pavlin {
+    top: -2663px;
+    left: 8vw;
+  }
+  .tap {
+    top: -200px;
+    left: 931px;
+  }
+  .mask {
+    top: -2vw;
+  }
+  .rain {
+    top: -2854px;
+    left: -5vw;
+  }
+  .zigzag {
+    top: -2660px;
+    left: 42vw;
+  }
+  .scratchesgor {
+    top: -3451px;
+    left: 13vw;
+  }
+  .pero {
+    top: -3385px;
+    left: 27vw;
+  }
+  .zigzagb
+  {
+    top: -3802px;
+    left: 6.7vw;
+  }
+  .voidtriangle {
+    top: -4293px;
+    left: 14.5vw;
+  }
+  .scratch {
+    top: -4180px;
+    left: 20vw;
+  }
+  .plane {
+    top: -4331px;
+    left: -2.5vw;
+  }
+  .drag {
+    top: -5208px;
+    left: 16.5vw;
+  }
+  .circlegreen {
+    top: -5193px;
+    left: 24vw;
+  }
+  .eyes {
+    top: -5318px;
+    left: 504px;
+  }
+  .nose {
+    top: -5560px;
+    left: 605px;
+  }
+  .mouth {
+    top: -5639px;
+    left: 611px;
+  }
+  .zaafro {
+    transform: scale(0.8);
+    top: -6210px;
+    width: 518px;
+    left: 445px;
+  }
+  .next {
+    top: -5648px;
+    transform: scale(0.8);
+    left: 1050px;
+    height: 13vh;
+    width: 302px;
+  }
+  .adv {
+    top: -6331px;
+    left: 840px;
+  }
+  .frame2 {
+    top: 768px;
+    width: 1366px;
+    height: 768px
+  }
+  .head {
+    margin-top: 105px;
+    margin-left: 376px;
+  }
+  .patterns {
+    margin-top: -710px;
+  }
+  .eyes1 {
+    top: -549px;
+    left: 515px;
+  }
+  .nose1 {
+    top: -794px;
+    left: 617px;
+  }
+  .mouth1 {
+    top: -872px;
+    left: 615px;
+  }
+  .affest {
+    top: -1474px;
+    left: 55px;
+    width: 302px;
+  }
+  .restart {
+    top: -1133px;
+    left: 1053px;
+    width: 307px;
+    transform: scale(0.8);
+  }
+  .futter {
+   top: -1066px;
+   width: 122vw;
+  }
+  .logo {
+    top: 0.3vh;
+  }
+  .afv {
+    top: 4vh;
+  }
+  .name {
+    top: 4vh;
+    left: 74.5vw;
+  }
+  .handl, .handc, .handr {
+    transform: scale(0.9);
+  }
+  .handl {
+    top: -1788px;
+  }
+  .handl1 {
+    left: -49px;
+  }
+  .handc {
+    left: 343px;
+  }
+  .handc1 {
+    top: -2388px;
+
+  }
+  .handr {
+    background: url("../images/handr1368.png");
+    width: 906px;
+    height: 559px;
+    top: -2996px;
+    transform: scale(1);
+  }
+  .handr1 {
+    left: 575px;
+  }
 }
 /* pc 1024*768 */
-@media all  and (max-device-width: 1024px){
-.site {width: 1024px; height: 3072px;}
-@import 'animation_pc_1024_768.css';
+@media all and (min-device-width: 769px) and (max-device-width: 1024px){
+ .site { width: 1024px; height: 1536px;}
+ .frame1 {
+   top: -3vh;
+   left: -3vw;
+   width: 1091px;
+   height: 815px;
+   transform: scale(0.94);
+ }
+ .mask {
+   margin-top: 66px;
+   margin-left: 222px;
+ }
+ .tap {
+   top: -172px;
+   left: 757px;
+ }
+ .hat {
+   top: -787px;
+   left: 67vw;
+ }
+ .glines {
+   top: -1195px;
+   left: 84.5vw;
+ }
+ .veer {
+   top: 306px;
+   left: 71.5vw;
+ }
+ .cube {
+   top: 467px;
+   left: 76.5vw;
+ }
+ .oval {
+   top: 400px;
+   left: 94.5vw;
+ }
+ .whtriangle {
+   top: -1532px;
+   left: 73.8vw;
+ }
+ .half {
+   top: -1716px;
+   left: -10.4vw;
+ }
+ .boldpoloski {
+   top: -2444px;
+   left: -11.8vw;
+ }
+ .pavlin {
+   top: -2623px;
+   left: 2vw;
+ }
+ .rain {
+   display: none;
+ }
+ .zigzag {
+   top: -2424px;
+   left: 42vw;
+ }
+ .scratchesgor {
+   top: -3192px;
+   left: 8vw;
+ }
+ .pero {
+   top: -3134px;
+   left: 27vw;
+ }
+ .zigzagb{
+   top: -3550px;
+   left: -0.3vw;
+ }
+ .voidtriangle {
+   top: -4039px;
+   left: 10.5vw;
+ }
+ .scratch {
+   top: -3929px;
+   left: 15.5vw;
+ }
+ .plane {
+   top: -4075px;
+   left: -13.5vw;
+ }
+ .drag {
+   top: -4948px;
+   left: 11.5vw;
+ }
+ .circlegreen {
+   top: -5171px;
+   left: -6.9vw;
+ }
+ .eyes {
+   top: -5082px;
+   left: 357px;
+ }
+ .nose {
+   top: -5321px;
+   left: 460px;
+ }
+ .mouth {
+   top: -5403px;
+   left: 453px;
+ }
+ h1 {
+   font-size: 52px;
+ }
+ .zaafro {
+   top: -5980px;
+   width: 440px;
+   left: 342px;
+ }
+ .next {
+   top: -5353px;
+   left: 784px;
+   height: 9.8vh;
+   width: 256px;
+ }
+ .adv {
+   top: -6072px;
+   height: 140px;
+   left: 703px;
+   width: 294px;
+ }
+ .adv p{
+   font-size: 25px;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+ }
+ .frame2 {
+   top: 742px;
+   left: -3vw;
+   width: 1091px;
+   height: 815px;
+   transform: scale(0.94);
+ }
+ .head {
+   margin-top: 92px;
+   margin-left: 232px;
+ }
+ .patterns {
+   margin-top: -710px;
+   margin-left: 166px;
+   height: 750px;
+   width: 750px;
+ }
+ .eyes1 {
+   top: -494px;
+   left: 369px;
+ }
+ .nose1 {
+   top: -740px;
+   left: 471px;
+ }
+ .mouth1 {
+   top: -814px;
+   left: 469px;
+ }
+ .affest {
+   top: -1453px;
+   left: 44px;
+   width: 302px;
+ }
+ h2 {
+   font-size: 53px;
+ }
+ .restart {
+   background-image: url("../images/button.png");
+   width: 138px;
+   height: 85px;
+   top: -1046px;
+   left: 902px;
+ }
+ .restart h1 {
+  opacity: 0;
+ }
+ .futter {
+  top: -971px;
+  width: 122vw;
+ }
+ .logo {
+   top: 1.3vh;
+   left: 4vw;
+ }
+ p {
+   font-size: 32px;
+ }
+ .afv {
+   top: 5vh;
+   left: 13.7vw;
+   width: 270px;
+ }
+ .name {
+   top: 5vh;
+   left: 70vw;
+   width: 326px;
+ }
+ .handl, .handc, .handr {
+   transform: scale(0.9);
+ }
+ .handl {
+   top: -1723px;
+ }
+ .handl1 {
+   left: -144px;
+ }
+ .handc {
+   left: 244px;
+ }
+ .handc1 {
+   top: -2315px;
+
+ }
+ .handr {
+   background: url("../images/handr1368.png");
+   width: 906px;
+   height: 559px;
+   top: -2928px;
+   transform: scale(1);
+ }
+ .handr1 {
+   left: 475px;
+ }
 }
 /* tablet 768*1024 */
-@media all  and (max-device-width: 768px){
-.site {width: 768px; height: 4096px;}
-@import 'animation_tablet.css';
+@media all  and (min-device-width: 415px) and (max-device-width: 768px){
+ .site {width: 768px; height: 2048px;}
+ .frame1 {
+   top: -3vh;
+   left: -4vw;
+   width: 822px;
+   height: 1088px;
+   transform: scale(0.94);
+ }
+ .mask {
+   margin-top: 137px;
+   margin-left: 96px;
+ }
+ .tap {
+   transform: scale(1.2);
+   top: -75px;
+   left: 518px;
+ }
+ .hat {
+   top: -889px;
+   left: 73vw;
+ }
+ .glines {
+   top: -1101px;
+   left: 80.5vw;
+ }
+ .veer {
+   left: 60.5vw;
+   top: 469px;
+ }
+ .cube {
+   top: 644px;
+   left: 70.5vw;
+ }
+ .oval {
+   top: 579px;
+   left: 94.5vw;
+ }
+ .whtriangle {
+   top: -1636px;
+   left: 84.8vw;
+ }
+ .half {
+   top: -1864px;
+   left: -10.4vw;
+ }
+ .boldpoloski {
+   top: -2602px;
+   left: -13.5vw;
+ }
+ .pavlin {
+  display: none;
+ }
+ .rain {
+   display: none;
+ }
+ .zigzag {
+    top: -1947px;
+   left: 34vw;
+ }
+ .scratchesgor {
+   top: -2717px;
+   left: -9vw;
+ }
+ .pero {
+   top: -2689px;
+   left: 13vw;
+ }
+ .zigzagb{
+   top: -3072px;
+   left: -21.3vw;
+ }
+ .voidtriangle {
+   top: -3578px;
+   left: 6.5vw;
+ }
+ .scratch {
+   top: -3610px;
+   left: 24.5vw;
+ }
+ .plane {
+   display: none;
+ }
+ .drag {
+   transform: scale(1.2);
+   top: -4362px;
+   left: 119px;
+ }
+ .circlegreen {
+   top: -4438px;
+   left: 46px;
+ }
+ .eyes {
+   top: -4495px;
+   left: 239px;
+ }
+ .nose {
+   top: -4734px;
+   left: 336px;
+ }
+ .mouth {
+   top: -4813px;
+   left: 335px;
+ }
+ h1 {
+   font-size: 65px;
+ }
+ .zaafro {
+   top: -5461px;
+   width: 543px;
+   left: 147px;
+ }
+ .next {
+   top: -4569px;
+   left: 495px;
+   height: 9.8vh;
+   width: 291px;
+ }
+ .adv {
+   top: -5574px;
+   height: 91px;
+   width: 227px;
+   left: 523px;
+ }
+ .adv p{
+   font-size: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+ }
+ .frame2 {
+   top: 1000px;
+   left: -5vw;
+   width: 828px;
+   height: 1082px;
+   transform: scale(0.94);
+ }
+ .head {
+   margin-top: 235px;
+   margin-left: 113px;
+ }
+ .patterns {
+   margin-top: -722px;
+   margin-left: 52px;
+   height: 750px;
+   width: 750px;
+ }
+ .eyes1 {
+   top: -482px;
+   left: 254px;
+ }
+ .nose1 {
+   top: -726px;
+   left: 355px;
+ }
+ .mouth1 {
+   top: -805px;
+   left: 354px;
+ }
+ .affest {
+   top: -1597px;
+   left: 68px;
+   width: 385px;
+ }
+ h2 {
+   font-size: 53px;
+ }
+ .restart {
+   background-image: url("../images/button.png");
+   width: 138px;
+   height: 85px;
+   top: -919px;
+   left: 645px;
+ }
+ .restart h1 {
+  opacity: 0;
+ }
+ .futter {
+   top: -842px;
+   width: 108vw;
+ }
+ .logo {
+   top: 1.3vh;
+   left: 9vw;
+ }
+ p {
+   font-size: 32px;
+ }
+ .afv {
+   top: 4vh;
+   left: 68.7vw;
+   width: 270px;
+ }
+ .name {
+   display: none;
+ }
+ .handl, .handr {
+   transform: scale(0.9);
+ }
+ .handl {
+   top: -1664px;
+ }
+ .handl1 {
+   left: -253px;
+ }
+ .handc {
+   background: url("../images/handc_t.png");
+   left: 115px;
+   width: 512px;
+   height: 967px;
+ }
+ .handc1 {
+   top: -2457px;
+
+ }
+ .handr {
+   background: url("../images/handr1368.png");
+   width: 906px;
+   height: 559px;
+   top: -3017px;
+   transform: scale(1);
+ }
+ .handr1 {
+   left: 362px;
+ }
 }
 /* iphone 414*896*/
-@media all  and (max-device-width: 414px){
-.site {width: 414px; height: 3584px;}
-@import 'animation_iphone.css';
+@media all and (min-device-width: 359px) and (max-device-width: 414px){
+ .site {
+   width: 414px;
+   height: 1792;
+ }
+ .frame1 {
+   top: 0;
+   left: 0;
+   width: 414px;
+   height: 896px;
+ }
+ .mask,  .tap, .drag, .hat, .glines, .veer, .cube, .oval {
+   transform: scale(0.6);
+ }
+ .whtriangle, .half, .boldpoloski, .pavlin, .rain, .zigzag, .scratchesgor, .pero, .zigzagb, .voidtriangle, .scratch, .plane, .circlegreen, .eyes, .nose, .mouth, .zaafro, .next {
+   transform: scale(0.6);
+ }
+ .mask {
+   margin-top: 131px;
+   margin-left: -110px;
+ }
+ .tap {
+   transform: scale(0.8);
+   top: -159px;
+   left: 129px;
+ }
+ .hat {
+   top: -805px;
+   left: 37vw;
+ }
+ .glines {
+   top: -1027px;
+   left: 52vw;
+ }
+ .veer {
+   left: 30.5vw;
+   top: 500px;
+ }
+ .cube {
+   top: 560px;
+   left: 44.5vw;
+ }
+ .oval {
+   display: none;
+ }
+ .whtriangle {
+   top: -1555px;
+   left: 71.8vw;
+   transform: scale(0.78);
+ }
+ .half {
+   top: -1621px;
+   left: -25.4vw;
+ }
+ .boldpoloski {
+   top: -2220px;
+   left: -24.5vw;
+ }
+ .pavlin {
+  display: none;
+ }
+ .rain {
+   display: none;
+ }
+ .zigzag {
+   top: -2723px;
+   left: 14vw;
+ }
+ .scratchesgor {
+   display: none;
+ }
+ .pero {
+   top: -3025px;
+   left: 0vw;
+ }
+ .zigzagb{
+   top: -3373px;
+   left: -42.3vw;
+ }
+ .voidtriangle {
+   top: -3778px;
+   left: -19.5vw;
+ }
+ .scratch {
+   top: -3872px;
+   left: 9.5vw;
+ }
+ .plane {
+   top: -3366px;
+   left: -18vw;
+ }
+ .drag {
+   transform: scale(0.63);
+   top: -4099px;
+   left: -45px;
+ }
+ .circlegreen {
+   top: -4039px;
+   left: -6px;
+ }
+ .eyes {
+   top: -4371px;
+   left: 28px;
+ }
+ .nose {
+   top: -4622px;
+   left: 129px;
+ }
+ .mouth {
+   top: -4777px;
+   left: 123px;
+ }
+ h1 {
+   font-size: 65px;
+ }
+ .zaafro {
+   top: -5380px;
+   width: 597px;
+   left: -91px;
+   height: 93px;
+ }
+ .next {
+   padding-top: 10px;
+   top: -4706px;
+   left: 167px;
+   height: 12vh;
+   width: 279px;
+ }
+ .adv {
+   top: -5527px;
+   height: 91px;
+   width: 136px;
+   left: 243px;
+ }
+ .adv p{
+   font-size: 15px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+ }
+ .frame2 {
+   top: 896px;
+   left: 0;
+   width: 828px;
+   height: 1082px;
+ }
+ .head, .patterns, .eyes1, .nose1, .mouth1, .affest, .restart, .futter {
+   transform: scale(0.6)
+ }
+ .head {
+   margin-top: 142px;
+   margin-left: -122px;
+ }
+ .patterns {
+   margin-top: -722px;
+   margin-left: -149px;
+   height: 750px;
+   width: 750px;
+ }
+ .eyes1 {
+   top: -460px;
+   left: 30px;
+ }
+ .nose1 {
+   top: -718px;
+   left: 132px;
+ }
+ .mouth1 {
+   top: -873px;
+   left: 131px;
+ }
+ .affest {
+   top: -1528px;
+   left: -24px;
+   width: 385px;
+   transform: scale(0.75);
+ }
+ h2 {
+   font-size: 53px;
+ }
+ .restart {
+   background-image: url("../images/button.png");
+   width: 138px;
+   height: 85px;
+   top: -919px;
+   left: 277px;
+ }
+ .restart h1 {
+  opacity: 0;
+ }
+ .futter {
+   top: -915px;
+   width: 168vw;
+   left: -138px;
+ }
+ .logo {
+   top: 1.3vh;
+   left: 9.8vw;
+ }
+ p {
+   font-size: 25px;
+ }
+ .afv {
+   top: 6vh;
+   left: 106.7vw;
+   width: 270px;
+ }
+ .name {
+   display: none;
+ }
+ .handl {
+   background: url("../images/handl_i.png");
+   top: -1446px;
+   width: 474px;
+   height: 339px;
+ }
+ .handl1 {
+   left: -253px;
+ }
+ .handc {
+   background: url("../images/handc_i.png");
+   left: 9px;
+   width: 331px;
+   height: 654px;
+ }
+ .handc1 {
+   top: -2169px;
+
+ }
+ .handr {
+   background: url("../images/handr_i.png");
+   width: 347px;
+   height: 440px;
+   top: -2612px;
+ }
+ .handr1 {
+   left: 215px;
+ }
 }
 /* andorid 360*640*/
 @media all and (max-device-width: 360px){
-.site {width: 360px; height: 2560px;}
-@import 'animation_android.css';
+ .site {width: 360px; height: 1280px;}
+ .frame1 {
+   top: 0;
+   left: 0;
+   width: 360px;
+   height: 640px;
+ }
+ .mask,  .tap, .drag, .hat, .glines, .veer, .cube, .oval {
+   transform: scale(0.44);
+ }
+ .whtriangle, .half, .boldpoloski, .pavlin, .rain, .zigzag, .scratchesgor, .pero, .zigzagb, .voidtriangle, .scratch, .plane, .circlegreen, .eyes, .nose, .mouth, .zaafro, .next {
+   transform: scale(0.44);
+ }
+ .mask {
+   margin-top: -4px;
+   margin-left: -144px;
+ }
+ .tap {
+   transform: scale(0.6);
+   top: -209px;
+   left: 90px;
+ }
+ .hat {
+   top: -772px;
+   left: 14vw;
+ }
+ .glines {
+   top: -1055px;
+   left: 36vw;
+ }
+ .veer {
+   left: 14.5vw;
+   top: 321px;
+ }
+ .cube {
+   top: 351px;
+   left: 33.5vw;
+ }
+ .oval {
+   display: none;
+ }
+ .whtriangle {
+   top: -1519px;
+   left: 55.8vw;
+   transform: scale(0.48);
+ }
+ .half {
+   top: -1676px;
+   left: -27.4vw;
+ }
+ .boldpoloski {
+   top: -2216px;
+   left: -23vw;
+ }
+ .pavlin {
+  display: none;
+ }
+ .rain {
+   display: none;
+ }
+ .zigzag {
+   top: -2661px;
+   left: 0vw;
+ }
+ .scratchesgor {
+   display: none;
+ }
+ .pero {
+   top: -2957px;
+   left: -2vw;
+ }
+ .zigzagb{
+   top: -3295px;
+   left: -43vw;
+ }
+ .voidtriangle {
+   top: -3667px;
+   left: -17.5vw;
+ }
+ .scratch {
+   top: -3777px;
+   left: 1.5vw;
+ }
+ .plane {
+   top: -3500px;
+   left: -24vw;
+ }
+ .drag {
+   transform: scale(0.46);
+   top: -4063px;
+   left: -39px;
+ }
+ .circlegreen {
+   top: -4057px;
+   left: -10px;
+ }
+ .eyes {
+   top: -4354px;
+   left: -5px;
+ }
+ .nose {
+   top: -4612px;
+   left: 96px;
+ }
+ .mouth {
+   top: -4795px;
+   left: 89px;
+ }
+ h1 {
+   font-size: 65px;
+ }
+ .zaafro {
+   top: -5265px;
+   padding-top: 6px;
+   width: 594px;
+   left: -122px;
+   height: 109px;
+   transform: scale(0.45);
+ }
+ .next {
+   padding-top: 10px;
+   top: -4822px;
+   left: 140px;
+   height: 16vh;
+   width: 275px;
+ }
+ .adv {
+   top: -5419px;
+   height: 91px;
+   width: 141px;
+   left: 212px;
+ }
+ .adv p{
+   font-size: 15px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+ }
+ .frame2 {
+   top: 640px;
+   left: 0;
+   width: 360px;
+   height: 640px;
+ }
+ .head, .patterns, .eyes1, .nose1, .mouth1, .affest, .restart, .futter {
+   transform: scale(0.44)
+ }
+ .head {
+   margin-top: 38px;
+   margin-left: -154px;
+ }
+ .patterns {
+   margin-top: -722px;
+   margin-left: -185px;
+   height: 750px;
+   width: 750px;
+ }
+ .eyes1 {
+   top: -466px;
+   left: 5px;
+ }
+ .nose1 {
+   top: -726px;
+   left: 108px;
+ }
+ .mouth1 {
+   top: -904px;
+   left: 103px;
+ }
+ .affest {
+   top: -1427px;
+   left: -63px;
+   width: 385px;
+   transform: scale(0.56);
+ }
+ h2 {
+   font-size: 53px;
+ }
+ .restart {
+   background-image: url("../images/button.png");
+   width: 151px;
+   height: 85px;
+   top: -1035px;
+   left: 230px;
+ }
+ .restart h1 {
+  opacity: 0;
+ }
+ .futter {
+   top: -1060px;
+   width: 229vw;
+   left: -230px;
+ }
+ .logo {
+   top: 1.3vh;
+   left: 12.8vw;
+ }
+ p {
+   font-size: 23px;
+ }
+ .afv {
+   top: 8vh;
+   left: 161.7vw;
+   width: 270px;
+ }
+ .name {
+   display: none;
+ }
+ .handl, .handc, .handr {
+   transform: scale(0.77);
+ }
+ .handl {
+   background: url("../images/handl_i.png");
+   top: -1499px;
+   width: 474px;
+   height: 339px;
+ }
+ .handl1 {
+   left: -202px;
+ }
+ .handc {
+   background: url("../images/handc_i.png");
+   left: 7px;
+   width: 331px;
+   height: 654px;
+ }
+ .handc1 {
+   top: -2169px;
+
+ }
+ .handr {
+   background: url("../images/handr_i.png");
+   width: 347px;
+   height: 440px;
+   top: -2650px;
+ }
+ .handr1 {
+   left: 160px;
+ }
 }
