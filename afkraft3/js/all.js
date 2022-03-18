@@ -303,7 +303,7 @@ $(document).ready(function(){
     };
   });
 });
-
+// паттерны
 $( function() {
     $(".hat" ).draggable();
   } );
@@ -362,22 +362,30 @@ $( function() {
   $(function() {
   $('.next').click(function() {
     $(".site").animate({
-      scrollTop:1800
+      scrollTop: 2160
     },1000);
     setTimeout(function(){
       $(".head, .eyes1, .nose1, .mouth1, .patterns").addClass("op");
   }, 100);
   })
 })
+// НЕ РАБОТАЕТ СКРОЛЛТОП
 $(function(){
     $(".restart").bind('click', function(e){
         $(".handl").addClass("handl1");
         $(".handc").addClass("handc1");
         $(".handr").addClass("handr1");
-        e.preventDefault();
-        $('body,html').animate({scrollTop: 0}, 400);
+    setTimeout(function(){
+  		location.reload();
+  	}, 2000);
+    $(".site").animate({
+      scrollTop:0
+    },1800);
     });
 });
+$( function() {
+    $( document ).tooltip();
+  } );
 // $(document).ready(function(){
 //   $(".mask").click(function(){
 //     if ($(".mask").hasClass("circlegreen")){
