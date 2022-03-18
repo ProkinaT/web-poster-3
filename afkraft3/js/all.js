@@ -383,9 +383,9 @@ $(function(){
     },1800);
     });
 });
-$( function() {
-    $( document ).tooltip();
-  } );
+// $( function() {
+//     $( document ).tooltip();
+//   } );
 // $(document).ready(function(){
 //   $(".mask").click(function(){
 //     if ($(".mask").hasClass("circlegreen")){
