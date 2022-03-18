@@ -1,6 +1,6 @@
 
 .site {
-  opacity: 0.6;
+  opacity: 1;
   position: relative;
   top: 0;
   left: 0;
@@ -20,7 +20,7 @@
 .mask {
   position: relative;
   margin: auto;
-  margin-top: 100px;
+  margin-top: 88px;
   justify-content: center;
   height: 638px;
   width: 638px;
@@ -60,16 +60,16 @@ background-image: url("../images/redb.svg");
   width: 199px;
   height: 79px;
   background: url("../images/tap.png");
-  top: -170px;
-  left: 915px;
+  top: -159px;
+  left: 916px;
 }
 .drag {
   position: relative;
   width: 197px;
   height: 97px;
   background: url("../images/drag.png");
-  top: -5205px;
-  left: 215px;
+  top: -5190px;
+  left: 214px;
 }
 
 .hat {
@@ -77,8 +77,8 @@ background-image: url("../images/redb.svg");
   width: 651px;
   height: 537px;
   background: url("../images/hat.png");
-  top: -785px;
-  left: 840px;
+  top: -779px;
+  left: 60vw;
 }
 
 .glines {
@@ -86,72 +86,72 @@ background-image: url("../images/redb.svg");
   width: 376px;
   height: 376px;
   background: url("../images/glines.png");
-  top: -1190px;
-  left: 1030px;
+  top: -1187px;
+  left: 71.5vw;
 }
 .veer {
   position:absolute;
   width: 421px;
   height: 256px;
   background: url("../images/veer.png");
-  top: 345px;
-  left: 890px;
+  top: 352px;
+  left: 63.5vw;
 }
 .cube {
   position:absolute;
   width: 284px;
   height: 378px;
   background: url("../images/cube.png");
-  top: 500px;
-  left: 1070px;
+  top: 491px;
+  left: 77.5vw;
 }
 .oval {
   position:absolute;
   width: 154px;
   height: 287px;
   background: url("../images/oval.png");
-  top: 390px;
-  left: 1260px;
+  top: 401px;
+  left: 90.5vw;
 }
 .whtriangle{
   position:relative;
   width: 250px;
   height: 221px;
   background: url("../images/whtriangle.png");
-  top: -1530px;
-  left: 920px;
+  top: -1522px;
+  left: 65.5vw;
 }
 .half {
   position:relative;
   width: 303px;
   height: 535px;
   background: url("../images/half.png");
-  top: -1730px;
-  left: 0px;
+  top: -1721px;
+  left: 0vw;
 }
 .boldpoloski {
   position:relative;
   width: 222px;
   height: 254px;
   background: url("../images/boldpoloski.png");
-  top: -2460px;
-  left: -24px;
+  top: -2458px;
+  left: -2vw;
 }
 .pavlin {
   position: relative;
   width: 301px;
   height: 264px;
   background: url("../images/pavlin.png");
-  top: -2640px;
-  left: 120px;
+  top: -2631px;
+  left: 8.5vw;
 }
 .rain {
   position:relative;
   width: 188px;
   height: 217px;
   background: url("../images/rain.png");
-  top: -2830px;
-  left: -50px;
+  top: -2826px;
+  left: -3vw;
 }
 
 .zigzag {
@@ -159,72 +159,71 @@ background-image: url("../images/redb.svg");
   width: 478px;
   height: 329px;
   background: url("../images/zigzag.png");
-  top: -2635px;
-  left: 585px;
+  top: -292.5vh;
+  left: 40.5vw;
 }
 .scratchesgor {
   position: relative;
   width: 300px;
   height: 423px;
   background: url("../images/scratchesgor.png");
-  top: -3430px;
-  left: 195px;
+  top: -2625px;
+  left: 41.5vw;
 }
 .pero {
   position:relative;
   width: 243px;
   height: 229px;
   background: url("../images/pero.png");
-  top: -3360px;
-  left: 385px;
+  top: -3356px;
+  left: 27vw;
 }
 .zigzagb {
   position:relative;
   width: 369px;
   height: 383px;
   background: url("../images/zigzagb.png");
-  top: -3780px;
-  left: 100px;
+  top: -3772px;
+  left: 6.9vw;
 }
 .voidtriangle {
   position: relative;
   width: 198px;
   height: 185px;
   background: url("../images/voidtriangle.png");
-  top: -4270px;
-  left: 210px;
+  top: -4259px;
+  left: 15vw;
 }
 .scratch {
   position:relative;
   width: 353px;
   height: 139px;
   background: url("../images/skratch.png");
-  top: -4160px;
-  left: 285px;
+  top: -4153px;
+  left: 20.5vw;
 }
 .plane {
   position:relative;
   width: 327px;
   height: 327px;
   background: url("../images/plane.png");
-  top: -4305px;
-  left: -30px;
+  top: -4302px;
+  left: -2vw;
 }
 .circlegreen {
   position: relative;
   width: 198px;
   height: 202px;
-  top: -5170px;
-  left: 340px;
+  top: -5159px;
+  left: 24vw;
   background: url("../images/circlegreen.png");
 }
 .eyes {
   position: relative;
   width: 358px;
   height: 184px;
-  top: -5300px;
-  /* 4370 */
-  left: 540px;
+  top: -5290px;
+  left: 533px;
 }
 .y1 {
 background: url("../images/y1.png");
@@ -260,9 +259,8 @@ background: url("../images/y1.png");
   position: relative;
   width: 155px;
   height: 364px;
-  top: -5535px;
-  /* 4610 */
-  left: 645px;
+  top: -5529px;
+  left: 637px;
 
 }
 .n1 {
@@ -299,8 +297,8 @@ background: url("../images/y1.png");
   position: relative;
   width: 167px;
   height: 163px;
-  top: -5615px;
-  left: 640px;
+  top: -5609px;
+  left: 637px;
 }
 /* 4690 */
 .m1 {
@@ -337,8 +335,8 @@ background: url("../images/y1.png");
   position: relative;
   width: 544px;
   height: 85px;
-  top: -6215px;
-  left: 440px;
+  top: -6200px;
+  left: 434px;
   background-color: black;
   text-align: center;
   line-height: 85px;
@@ -350,8 +348,8 @@ background-color: #3c3c3c;
   position: relative;
   width: 289px;
   height: 85px;
-  top: -5540px;
-  left: 1105px;
+  top: -5531px;
+  left: 1104px;
   background-color: black;
   text-align: center;
   line-height: 85px;
@@ -361,14 +359,12 @@ background-color: #3c3c3c;
 }
 .adv {
   position: relative;
-  top: -6310px;
-  left: 905px;
+  top: -6298px;
+  left: 903px;
   width: 374px;
   height: 168px;
   background-color: white;
-  opacity: 0;
-  animation-delay: 0.3s;
-
+  display: none;
 }
 .adv p {
  color: black;
@@ -400,18 +396,19 @@ background-color: #3c3c3c;
 .patterns {
   display: flex;
   margin: auto;
-  margin-top: 140px;
+  margin-top: -720px;
+  margin-left: 300px;
   justify-content: center;
   height: 800px;
   width: 800px;
-  opacity:0;
+  opacity: 0;
 }
 .eyes1 {
   position: relative;
   width: 358px;
   height: 184px;
-  top: -1420px;
-  left: 520px;
+  top: -549px;
+  left: 522px;
   opacity: 0;
 
 }
@@ -419,8 +416,8 @@ background-color: #3c3c3c;
   position: relative;
   width: 155px;
   height: 364px;
-  top: -1660px;
-  left: 630px;
+  top: -776px;
+  left: 634px;
   opacity: 0;
 
 }
@@ -428,8 +425,8 @@ background-color: #3c3c3c;
   position: relative;
   width: 167px;
   height: 163px;
-  top: -1735px;
-  left: 630px;
+  top: -863px;
+  left: 638px;
   opacity: 0;
 }
 .op {
@@ -438,10 +435,10 @@ background-color: #3c3c3c;
 
 .affest {
   position: relative;
-  width: 426px;
+  width: 430px;
   height: 138px;
-  top: -2385px;
-  left: 35px;
+  top: -1529px;
+  left: 50px;
   text-align: left;
   line-height: 60px;
 }
@@ -449,8 +446,8 @@ background-color: #3c3c3c;
   position: relative;
   width: 289px;
   height: 85px;
-  top: -1915px;
-  left: 1095px;
+  top: -1056px;
+  left: 1104px;
   background-color: black;
   text-align: center;
   line-height: 85px;
@@ -462,7 +459,7 @@ background-color: #3c3c3c;
   position: relative;
   width: 1440px;
   height: 87px;
-  top: -1840px;
+  top: -977px;
   left: 0;
   background-color: black;
 }
@@ -492,8 +489,8 @@ background-color: #3c3c3c;
   position: relative;
   width: 713px;
   height: 451px;
-  top: -2585px;
-  left: -723px;
+  top: -192vh;
+  left: -400vw;
   background: url("../images/handl.svg");
 }
 .handl1 {
@@ -503,21 +500,21 @@ background-color: #3c3c3c;
   position: relative;
   width: 603px;
   height: 815px;
-  top: -4740px;
-  left: 390px;
+  top: -4342px;
+  left: 397px;
   background: url("../images/handc.svg");
 }
 .handc1 {
-  top: -3200px;
+  top: -2342px;
 }
 .handr {
   position: relative;
   width: 782px;
   height: 570px;
-  top: -3810px;
-  left: 1440px;
+  top: -2957px;
+  left: 2000px;
   background: url("../images/handr.svg");
 }
 .handr1 {
-  left: 670px;
+  left: 662px;
 }
