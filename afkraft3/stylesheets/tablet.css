@@ -1,0 +1,222 @@
+@media all and (min-device-width: 415px) and (max-device-width: 768px){
+  .frame1 {
+    top: -3vh;
+    left: -4vw;
+    width: 822px;
+    height: 1088px;
+    transform: scale(0.94);
+  }
+  .mask {
+    margin-top: 13vh;
+    margin-left: 12vw;
+  }
+  .tap {
+    transform: scale(1.2);
+    top: -7vh;
+    left: 68vw;
+  }
+  .hat {
+    top: -86vh;
+    left: 73vw;
+  }
+  .glines {
+    top: -107.5vh;
+    left: 80.5vw;
+  }
+  .veer {
+    left: 60.5vw;
+    top: 46vh;
+  }
+  .cube {
+    top: 62vh;
+    left: 70.5vw;
+  }
+  .oval {
+    top: 56vh;
+    left: 94.5vw;
+  }
+  .whtriangle {
+    top: -159.2vh;
+    left: 84.8vw;
+  }
+  .half {
+    top: -181vh;
+    left: -10.4vw;
+  }
+  .boldpoloski {
+    top: -254vh;
+    left: -13.5vw;
+  }
+  .pavlin {
+   display: none;
+  }
+  .rain {
+    display: none;
+  }
+  .zigzag {
+    top: -189.5vh;
+    left: 34vw;
+  }
+  .scratchesgor {
+    top: -291vh;
+    left: -9vw;
+  }
+  .pero {
+    top: -263vh;
+    left: 13vw;
+  }
+  .zigzagb{
+    top: -299.5vh;
+    left: -21.3vw;
+  }
+  .voidtriangle {
+    top: -347vh;
+    left: 6.5vw;
+  }
+  .scratch {
+    top: -352vh;
+    left: 24.5vw;
+  }
+  .plane {
+    display: none;
+  }
+  .drag {
+    transform: scale(1.2);
+    top: -426vh;
+    left: 15.5vw;
+  }
+  .circlegreen {
+    top: -433vh;
+    left: 6vw;
+  }
+  .eyes {
+    top: -438.5vh;
+    left: 30vw;
+  }
+  .nose {
+    top: -462vh;
+    left: 44.2vw;
+  }
+  .mouth {
+    top: -470vh;
+    left: 43.5vw;
+  }
+  h1 {
+    font-size: 65px;
+  }
+  .zaafro {
+    top: -533vh;
+    width: 71vw;
+    left: 18.4vw;
+  }
+  .next {
+    top: -446vh;
+    left: 63.5vw;
+    height: 9.8vh;
+    width: 37.9vw;
+  }
+  .adv {
+    top: -544vh;
+    height: 91px;
+    width: 36vw;
+  }
+  .adv p{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .frame2 {
+    top: 1000px;
+    left: -5vw;
+    width: 828px;
+    height: 1082px;
+    transform: scale(0.94);
+  }
+  .head {
+    margin-top: 23vh;
+    margin-left: 15vw;
+  }
+  .patterns {
+    margin-top: -722px;
+    margin-left: 7vw;
+    height: 750px;
+    width: 750px;
+  }
+  .eyes1 {
+    top: -47vh;
+    left: 33vw;
+  }
+  .nose1 {
+    top: -71vh;
+    left: 46vw;
+  }
+  .mouth1 {
+    top: -79vh;
+    left: 46vw;
+  }
+  .affest {
+    top: -156vh;
+    left: 8vw;
+    width: 385px;
+  }
+  h2 {
+    font-size: 53px;
+  }
+  .restart {
+    background-image: url("../images/button.png");
+    width: 138px;
+    height: 85px;
+    top: -90vh;
+    left: 84vw;
+  }
+  .restart h1 {
+   opacity: 0;
+  }
+  .futter {
+    top: -82.5vh;
+    width: 108vw;
+  }
+  .logo {
+    top: 1.3vh;
+    left: 9vw;
+  }
+  p {
+    font-size: 32px;
+  }
+  .afv {
+    top: 4vh;
+    left: 68.7vw;
+    width: 270px;
+  }
+  .name {
+    display: none;
+  }
+  .handl, .handc, .handr {
+    transform: scale(0.9);
+  }
+  .handl {
+    top: -163vh;
+  }
+  .handl1 {
+    left: -32vw;
+  }
+  .handc {
+    left: 16.8vw;
+  }
+  .handc1 {
+    top: -221vh;
+
+  }
+  .handr {
+    background: url("../images/handr1368.png");
+    width: 906px;
+    height: 559px;
+    top: -281vh;
+    transform: scale(1);
+  }
+  .handr1 {
+    left: 47vw;
+  }
+}
