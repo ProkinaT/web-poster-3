@@ -1,0 +1,316 @@
+@media all and (max-device-width: 360px){
+  .frame1 {
+    position:absolute;
+    width:360px;
+    height: 640px;
+  }
+  .afkraft {
+    position: relative;
+    width: 325px;
+    height: 435px;
+    left: 15px;
+    top: 15px;
+    background: url("../images/afkraft and.svg");
+  }
+  .zyablik {
+   display: none;
+   }
+  .borange {
+    width: 193px;
+    height: 223px;
+    top: -178px;
+    background: url("../images/head orange iph.svg");
+  }
+  .bblue {
+    width: 290px;
+    height: 270px;
+    top: -265px;
+    transform: rotate(-45deg);
+    background: url("../images/head blue iph.svg");
+  }
+  .bpink {
+    display: none;
+  }
+  .bgreen {
+    display: none;
+  }
+  .bred {
+    width: 200px;
+    height: 200px;
+    top: -510px;
+    transform: rotate(-15deg);
+    background: url("../images/head red iph.svg");
+  }
+  /* фрэйм 2-3 */
+  .frame23 {
+    position:absolute;
+    top: 640px;
+    width: 360px;
+    height: 1280px;
+  }
+  /* класс стафф */
+  .stuff {
+    position:relative;
+    width: 360px;
+    height: 1280px;
+  }
+  .ribbon {
+    width: 250px;
+    height: 290px;
+    top: 500px;
+    left: -40px;
+    transform: rotate(130deg);
+    background: url("../images/ribbon tbl.svg");;
+  }
+  .button1 {
+    width: 60px;
+    height: 60px;
+    top: 475px;
+    left: 290px;
+    transform: rotate(-10deg);
+    background: url("../images/button tbl.svg");
+  }
+  .button2 {
+    display: none;
+  }
+  .button3 {
+    width: 60px;
+    height: 60px;
+    top: -30px;
+    left: 170px;
+    background: url("../images/button tbl.svg");
+  }
+  .button4 {
+    display: none;
+  }
+  .busket {
+    display: none;
+  }
+  .mask {
+    width: 340px;
+    height: 360px;
+    top: -430px;
+    left: 70px;
+    transform: rotate(-45deg);
+    background: url("../images/mask tbl.svg");
+  }
+  .vudu{
+    display: none;
+  }
+  .earingy {
+    width: 200px;
+    height: 200px;
+    top: -640px;
+    left: -15px;
+    background: url("../images/earings y tbl.svg");
+  }
+  .earingg1 {
+    display: none;
+  }
+  .earingg2 {
+    width: 250px;
+    height: 300px;
+    top: -445px;
+    left: 100px;
+    transform: rotate(30deg);
+  }
+  .jug {
+    display: none;
+  }
+  .skirt {
+    width: 500px;
+    height: 500px;
+    top: -1010px;
+    left: 120px;
+    transform: rotate(-55deg);
+    background: url("../images/skirt tbl.svg");
+  }
+  /* класс части зелёные */
+  .gparts {
+    position:relative;
+    top: -700px;
+    width: 360px;
+    height: 440px;
+  }
+  .ghead {
+    width: 250px;
+    height: 250px;
+    top: 185px;
+    left: 110px;
+    background: url("../images/parts head green and.svg");
+  }
+  .garmr {
+    width: 150px;
+    height: 200px;
+    top: -80px;
+    left: 0px;
+    background: url("../images/parts arm r green and.svg");
+  }
+  .garml {
+    display: none;
+  }
+  .glegs {
+    width: 250px;
+    height: 300px;
+    top: -100px;
+    left: 0px;
+    background: url("../images/parts legs green and.svg");
+  }
+  .gneck {
+    width: 360px;
+    height: 230px;
+    top: -450px;
+    left: 180px;
+    background: url("../images/parts neck green and.svg");
+  }
+  .gtriangle {
+    width: 100px;
+    height: 120px;
+    top: -695px;
+    left: 30px;
+    background: url("../images/parts triangle green and.svg");
+  }
+  .gline1 {
+    width: 170px;
+    height: 100px;
+    top: -520px;
+    left: 160px;
+    background: url("../images/parts line green and.svg");
+  }
+  .gline2 {
+    width: 200px;
+    height: 120px;
+    top: -630px;
+    left: 230px;
+    transform: rotate(70deg);
+    background: url("../images/parts line green and.svg");
+  }
+  /* класс части красные */
+  .rparts {
+    display: none;
+  }
+  /* класс леттерс */
+  .letters {
+    display: none
+  }
+  /* фрэйм 4 */
+  .frame4 {
+    position:absolute;
+    top: 1920px;
+    width: 360px;
+    height: 640px;
+  }
+  .afro {
+    width: 225px;
+    height: 580px;
+    top: 12px;
+    left: 115px;
+    background: url("../images/zaafro and.svg");
+  }
+  .greenman {
+    width: 399.6px;
+    height: 560.58px;
+    top: -550px;
+    left: -170px;
+    background: url("../images/green afro and.svg");
+
+  }
+  .redman {
+    display: none;
+  }
+  .futter {
+    display: block;
+    position: relative;
+    top: -570px;
+    width: 370px;
+  }
+  .me {
+   width: 340px;
+   height: 30px;
+   font-size: 20px;
+   top: -530px;
+   }
+  /* анимация фрэйм 1 головы */
+  @keyframes aorange {
+    0% {left:-100px;transform: rotate(-45deg);}
+    100% {left: -50px; transform: rotate(0deg);}
+  }
+  @keyframes ablue {
+    0% {left:-150px;transform: rotate(-125deg);}
+    100% {left: -40px; transform: rotate(-45deg);}
+  }
+   @keyframes ared {
+    0% { left: 424px;transform: rotate(-180deg);}
+    100% {left: 180px; transform: rotate(-15deg);}
+  }
+  /* анимация класс стафф */
+   @keyframes ribbon{
+    0% {top: 500px; left: -40px;}
+    100% {top: 610px; left: -20px;}
+  }
+  @keyframes button1{
+    0% {top:475px; left: 290px;}
+    100% {top: 585px; left: 270px;}
+  }
+  @keyframes button3{
+    0% {top:-30px; left: 170px;}
+    100% {top:160px; left: 150px;}
+  }
+  @keyframes mask{
+    0% {top:-430px;left: 70px;}
+    100% {top:-220px;left: 40px;}
+  }
+  @keyframes earingy{
+    0% {top:-640px;}
+    100% {top:-350px;}
+  }
+  @keyframes earingg2{
+    0% {top: -445px; left: 100px;}
+    100% {top:-325px; left: 90px;}
+  }
+  @keyframes skirt{
+    0% {top:-1010px;}
+    100% {top:-830px;}
+  }
+  /* анимация класс gparts */
+  @keyframes ghead{
+    0% {top:185px; left: 110px;}
+    100% {top: 285px; left: 80px;}
+  }
+  @keyframes garmr{
+    0% {top:-80px; left:0px;}
+    100% {top:10px; left: -20px;}
+  }
+  @keyframes glegs{
+    0% {top:-100px; left:0px;}
+    100% {top:-40px; left:-20px;}
+  }
+  @keyframes gneck{
+    0% {top:-450px; left:180px;}
+    100% {top:-400px; left: 150px;}
+  }
+
+  @keyframes gtriangle{
+    0% {top:-695px; left: 30px;}
+    100% {top:-625px; left: 10px;}
+  }
+  @keyframes gline1{
+    0% {left: 160px;}
+    100% {left: 190px;}
+  }
+  @keyframes gline2{
+    0% {left: 230px;}
+    100% {left: 240px; transform: rotate(75deg);}
+  }
+
+
+  /* анимация фрэйм 4 */
+  @keyframes greenmana{
+    0% {background-position: 0 top;}
+    50% {background-position: -399.6px top;}
+  }
+  @keyframes redmana{
+    0% {background-position: 0 top;}
+    50% {background-position: -586px top;}
+  }
+}
